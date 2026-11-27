@@ -1,0 +1,10 @@
+include windows.inc
+include kernel32.inc
+include user32.inc
+include comctl32.inc
+include masm32.inc
+public resultadotexto
+public base
+public altura
+public resultado
+public titulo

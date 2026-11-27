@@ -1,0 +1,11 @@
+include windows.inc
+include kernel32.inc
+include user32.inc
+include comctl32.inc
+include masm32.inc
+public totatexto
+public dano_req
+public total
+public estado
+public intacta
+public final
