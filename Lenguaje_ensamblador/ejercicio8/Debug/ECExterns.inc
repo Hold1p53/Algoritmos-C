@@ -1,0 +1,14 @@
+include windows.inc
+include kernel32.inc
+include user32.inc
+include comctl32.inc
+include masm32.inc
+public resultadotexto
+public canta
+public precioa
+public cantb
+public preciob
+public cantc
+public precioc
+public resultado
+public titulo
