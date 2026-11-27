@@ -1,0 +1,12 @@
+include windows.inc
+include kernel32.inc
+include user32.inc
+include comctl32.inc
+include masm32.inc
+public resultadotexto
+public numuno
+public numos
+public numes
+public numatro
+public resultado
+public titulo
