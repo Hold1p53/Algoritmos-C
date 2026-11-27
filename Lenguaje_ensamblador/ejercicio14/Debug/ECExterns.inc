@@ -1,0 +1,15 @@
+include windows.inc
+include kernel32.inc
+include user32.inc
+include comctl32.inc
+include masm32.inc
+public totaltexto
+public persona1
+public persona2
+public persona3
+public total
+public requerido
+public titulono
+public textosi
+public titulosi
+public final

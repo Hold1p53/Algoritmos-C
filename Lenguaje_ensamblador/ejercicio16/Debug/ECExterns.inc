@@ -1,0 +1,13 @@
+include windows.inc
+include kernel32.inc
+include user32.inc
+include comctl32.inc
+include masm32.inc
+public indicetexto
+public acel
+public indice
+public limite
+public regular
+public estable
+public final
+public titulo

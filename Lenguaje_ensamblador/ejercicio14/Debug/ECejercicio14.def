@@ -1,0 +1,7 @@
+/nologo /subsystem:windows /debug /nodefaultlib:libc /libpath:C:\masm32\lib /LIBPATH:C:\EasyCode\Lib\x86 /LIBPATH:"C:\Users\Pedrito\Music\PCG scripts\Ensamblador\ejercicio14"
+ejercicio14.obj
+kernel32.lib
+user32.lib
+comctl32.lib
+masm32.lib
+ejercicio14Res.res
