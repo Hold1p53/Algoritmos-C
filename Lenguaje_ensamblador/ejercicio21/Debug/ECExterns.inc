@@ -1,0 +1,17 @@
+include windows.inc
+include kernel32.inc
+include user32.inc
+include comctl32.inc
+include masm32.inc
+public totaltexto
+public total
+public conversion
+public enemigo1
+public enemigo2
+public enemigo3
+public enemigo4
+public minimo
+public subir
+public insuficiente
+public final
+public titulo

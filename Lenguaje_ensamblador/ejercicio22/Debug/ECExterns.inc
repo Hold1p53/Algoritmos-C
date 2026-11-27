@@ -1,0 +1,13 @@
+include windows.inc
+include kernel32.inc
+include user32.inc
+include comctl32.inc
+public creditos1
+public creditos2
+public creditos3
+public total
+public minimo
+public habilitado
+public pendientes
+public final
+public titulo
