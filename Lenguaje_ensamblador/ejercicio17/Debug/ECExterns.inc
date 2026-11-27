@@ -1,0 +1,17 @@
+include windows.inc
+include kernel32.inc
+include user32.inc
+include comctl32.inc
+include masm32.inc
+public temp_subida
+public hilo1
+public hilo2
+public hilo3
+public hilo4
+public temperatura
+public limite
+public peligro
+public seguro
+public final
+public titulo
+public temperaturatexto

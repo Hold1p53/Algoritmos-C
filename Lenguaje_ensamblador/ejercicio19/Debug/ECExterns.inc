@@ -1,0 +1,16 @@
+include windows.inc
+include kernel32.inc
+include user32.inc
+include comctl32.inc
+include masm32.inc
+public totaltexto
+public total
+public gasto_sector1
+public gasto_sector2
+public gasto_sector3
+public minimo
+public conversion
+public ef
+public ex
+public final
+public titulo

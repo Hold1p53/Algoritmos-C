@@ -1,0 +1,17 @@
+include windows.inc
+include kernel32.inc
+include user32.inc
+include comctl32.inc
+include masm32.inc
+public totaltexto
+public total
+public conversion
+public tam_paquete1
+public tam_paquete2
+public tam_paquete3
+public tam_paquete4
+public minimo
+public seguro
+public riesgo
+public final
+public titulo
