@@ -1,8 +1,0 @@
-/nologo /subsystem:windows /debug /nodefaultlib:libc /libpath:C:\masm32\lib /LIBPATH:C:\EasyCode\Lib\x86 /LIBPATH:"C:\Users\Pedrito\Music\PCG scripts\Ensamblador\Suma"
-Suma.obj
-kernel32.lib
-user32.lib
-comctl32.lib
-msasn1.lib
-masm32.lib
-SumaRes.res
